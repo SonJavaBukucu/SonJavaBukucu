@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+
+
+- 🔭 I’m currently working on Android Apps
+- 🌱 I’m currently learning Flutter & Dart, Android Studio & Java
+- ⚡ Fun fact: I like swimming
+
 <!--
 **SonJavaBukucu/SonJavaBukucu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
