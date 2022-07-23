@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **App Discounts**
 
-- 🌱 I’m currently learning **Flutter & Dart**
+- 🌱 I’m currently learning **Flutter & Dart - Android Studio & Java**
 
 - 👨‍💻 All of my projects are available at [https://ser-apps.web.app/](https://ser-apps.web.app/)
 
