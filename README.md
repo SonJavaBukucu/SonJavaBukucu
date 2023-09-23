@@ -2,7 +2,7 @@
 <h3 align="center">A passionate mobile app developer from Turkey</h3>
 
 
-- 🔭 I’m currently working on **App Discounts**
+- 🔭 I’m currently working on **Uno Card Game**
 
 - 🌱 I’m currently learning **Flutter & Dart - Android Studio & Java**
 
