@@ -2,9 +2,9 @@
 <h3 align="center">A passionate mobile app developer from Turkey</h3>
 
 
-- 🔭 I’m currently working on **Uno Card Game**
+- 🔭 I’m currently working on **First Person Shooter game**
 
-- 🌱 I’m currently learning **Flutter & Dart - Android Studio & Java**
+- 🌱 I’m currently learning **Unity**
 
 - 👨‍💻 All of my projects are available at [https://ser-apps.web.app/](https://ser-apps.web.app/)
 
