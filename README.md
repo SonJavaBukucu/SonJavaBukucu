@@ -6,7 +6,6 @@
 
 - 🌱 I’m currently learning **Unity**
 
-- 👨‍💻 All of my projects are available at [https://ser-apps.web.app/](https://ser-apps.web.app/)
 
 - ⚡ Fun fact **I like swimming**
 
